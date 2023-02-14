@@ -1,4 +1,7 @@
-# Repositorio-DIO-Java
-Repositório para o Bootcamp Java
+# Orange Tech + | BackEnd
+Repositório para o Bootcamp BackEnd - Java
 
-Alterando o arquivo de forma local
+### Módulo: Conhecendo a Linguagem de Programação Java
+  #### Aprendendo a Sintaxe Java
+          1. Anatomia das Classes
+
