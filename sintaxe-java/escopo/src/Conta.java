@@ -28,3 +28,6 @@ public class Conta {
 }
 
 
+
+// No terminal execute o comando abaixo
+
