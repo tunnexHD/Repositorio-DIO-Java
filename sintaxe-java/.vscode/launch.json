@@ -4,13 +4,26 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
+        {
+            "type": "java",
+            "name": "Launch Info",
+            "request": "launch",
+            "mainClass": "Info",
+            "projectName": "sintaxe-java_77ff54ab"
+        },
         {
             "type": "java",
             "name": "Launch AboutMe1",
             "request": "launch",
             "mainClass": "AboutMe1",
-            "projectName": "sintaxe-java_77ff54ab"                 
+            "projectName": "sintaxe-java_77ff54ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Scan",
+            "request": "launch",
+            "mainClass": "Scan",
+            "projectName": "sintaxe-java_77ff54ab"
         },
         {
             "type": "java",
