@@ -13,3 +13,12 @@ Repositório para o Bootcamp BackEnd - Java
 
   #### Lógica Condicional e controle de Fluxos Java
           1. Operadores Relacionais
+          2. Operadores Lógicos
+          3. Controle de Fluxo
+          4. Blocos
+
+#### Estrutura de Repetição e Arrays em Java
+          1. Estrutura de Repetição (loop)
+          2. Arrays
+
+
