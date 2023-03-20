@@ -3,10 +3,12 @@ public class Carro {
     String modelo;
     int capacidadeTanque;
 
+    //carro1
     Carro(){
 
     }
 
+    //carro2
     Carro(String cor, String modelo, int capacidadeTanque){
         this.cor = cor;
         this.modelo = modelo;
