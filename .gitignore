@@ -22,3 +22,22 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+collections-java/collections-java.iml
+collections-java/src/collections-java1.iml
+estruturas-de-repeticao-e-arrays-em-java/arrays/arrays.iml
+estruturas-de-repeticao-e-arrays-em-java/loop/loop.iml
+metodos-java/criando/criando.iml
+metodos-java/retornos/retornos.iml
+metodos-java/sobrecarga/sobrecarga.iml
+meu-primeiro-projeto-java/meu-primeiro-projeto-java.iml
+programacao-orientada-objetos-java/associacao/associacao.iml
+programacao-orientada-objetos-java/estrutura-basica-da-oo/estrutura-basica-da-oo.iml
+programacao-orientada-objetos-java/herança/herança.iml
+programacao-orientada-objetos-java/interface/interface.iml
+sintaxe-java/escopo/escopo.iml
+sintaxe-java/java-anatomia-classes/java-anatomia-classes.iml
+sintaxe-java/java-doc/java-doc.iml
+sintaxe-java/metodos/metodos.iml
+sintaxe-java/operadores/operadores.iml
+sintaxe-java/terminal-argumentos/terminal-argumentos.iml
+sintaxe-java/tipos-variaveis/tipos-variaveis.iml
